@@ -1,0 +1,7 @@
+D:\Python_projects\STUDY_DJANGO>git init
+Initialized empty Git repository in D:/Python_projects/STUDY_DJANGO/.git/
+
+D:\Python_projects\STUDY_DJANGO>git config --global user.name 'salm@sibmail.com'
+
+
+D:\Python_projects\STUDY_DJANGO>git config --global user.email 'salm@sibmail.com'
